@@ -1,3 +1,9 @@
+/*
+Task 2
+Simple Calculator
+Name : KARTIK KUMAR
+(CODSOFT)
+*/
 #include<iostream>
 #include<stdlib.h>
 using namespace std;
